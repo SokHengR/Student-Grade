@@ -1,0 +1,16 @@
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\bin\Debug\net6.0-windows\Student Grade.exe
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\bin\Debug\net6.0-windows\Student Grade.deps.json
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\bin\Debug\net6.0-windows\Student Grade.runtimeconfig.json
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\bin\Debug\net6.0-windows\Student Grade.dll
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\bin\Debug\net6.0-windows\Student Grade.pdb
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student_Grade.Form1.resources
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.csproj.GenerateResource.cache
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.AssemblyInfoInputs.cache
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.AssemblyInfo.cs
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.csproj.CoreCompileInputs.cache
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.dll
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\refint\Student Grade.dll
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.pdb
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\Student Grade.genruntimeconfig.cache
+C:\Users\SokHeng\Documents\GitHub\Student Grade\Student Grade\obj\Debug\net6.0-windows\ref\Student Grade.dll
